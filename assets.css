@@ -1,0 +1,88 @@
+.widebox {
+	width: 70%;
+	height: 30%;
+	float: top;
+	line-height: 40px;
+	padding-bottom: 30px;
+	background-color: lightgrey;
+	text-align: center;
+	color:grey;
+	float:top;
+	padding-left: 10%;
+	padding-right: 10%;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px
+}
+
+
+.container {
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+
+.section{
+	background-color:lightgrey;
+	width: 495px;
+	height: 100%;
+	padding-bottom: 1%;
+	text-align: center;
+	float:left;
+	color:grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px
+}
+
+.article{
+	background-color: grey;
+	padding-bottom:2%;
+	text-align: center;
+	color:lightgrey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px
+}
+
+.aside{
+	background-color:lightgrey;
+	width: 30.1%;
+	height: 270px;
+	text-align: center;
+	float:left;
+	color:grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px
+}
+
+
+.smallbox{
+	background-color:lightgrey;
+	margin-bottom:1%;
+	text-align:center;
+	padding: 20px 20px;
+	color:grey;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px
+}
+body{
+	width:960px;
+	background-color: grey;
+	overflow:auto;
+	margin:auto;
+}
+
+.footer {
+	width: 70%;
+	height: 30%;
+	float: top;
+	line-height: 40px;
+	padding-bottom: 30px;
+	background-color: lightgrey;
+	text-align: center;
+	color:grey;
+	float:top;
+	padding-left: 10%;
+	padding-right: 10%;
+  	clear: both;
+  	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px
+}
